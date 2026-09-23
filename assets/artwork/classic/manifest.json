@@ -1475,6 +1475,10 @@
     "source": "levaillant",
     "url": "https://commons.wikimedia.org/wiki/File:Bessonornis_bicolor_-_1796-1808_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300353.tif"
   },
+  "birds/dicaeum-hirundinaceum.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200624"
+  },
   "birds/dicrurus-bracteatus-2.webp": {
     "source": "commons-gould",
     "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_21)_(6943637203).jpg"
@@ -2483,6 +2487,10 @@
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48285751"
   },
+  "birds/malurus-lamberti.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48285828"
+  },
   "birds/malurus-melanocephalus.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48285836"
@@ -2598,6 +2606,10 @@
   "birds/melanocorypha-calandra.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIICalandra_Lark.jpg"
+  },
+  "birds/meliphaga-lewinii-2.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48702943"
   },
   "birds/meliphaga-lewinii.webp": {
     "source": "commons-other",
@@ -3211,6 +3223,10 @@
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48401022"
   },
+  "birds/plectorhyncha-lanceolata.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703003"
+  },
   "birds/plectrophenax-nivalis-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Plectrophenax_nivalis_1.jpg"
@@ -3546,6 +3562,10 @@
   "birds/scythrops-novaehollandiae.webp": {
     "source": "commons-gould",
     "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_44)_(6943651085).jpg"
+  },
+  "birds/sericornis-frontalis-2.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48285928"
   },
   "birds/sericornis-frontalis.webp": {
     "source": "commons-other",
