@@ -139,6 +139,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVRed-legged_Partridge.jpg"
   },
+  "birds/alectura-lathami.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48401238"
+  },
   "birds/alisterus-scapularis.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48400998"
@@ -1147,6 +1151,10 @@
     "source": "audubon",
     "url": "https://media.audubon.org/boa_illustration/plate-37-golden-winged-woodpecker.jpg"
   },
+  "birds/colluricincla-harmonica.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200784"
+  },
   "birds/coloeus-monedula-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00244.jpg"
@@ -1651,6 +1659,10 @@
     "source": "commons-other",
     "url": "https://commons.wikimedia.org/wiki/File:Eudynamys_orientalis_1869.jpg"
   },
+  "birds/eurystomus-orientalis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200556"
+  },
   "birds/falco-biarmicus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeILanner_Falcon.jpg"
@@ -2090,6 +2102,10 @@
   "birds/hippolais-polyglotta.webp": {
     "source": "desmurs",
     "url": "https://commons.wikimedia.org/wiki/File:Hippolais_polyglotta_%26_Hippolais_icterina_1849.jpg"
+  },
+  "birds/hirundo-neoxena.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200540"
   },
   "birds/hirundo-rustica-2.webp": {
     "source": "vonwright",
@@ -2767,6 +2783,10 @@
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48703067"
   },
+  "birds/neochmia-temporalis.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Estrelda_temporalis_Mrs_Gould_378442.jpg"
+  },
   "birds/neophron-percnopterus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIEgyptianVulture.jpg"
@@ -2990,6 +3010,10 @@
   "birds/petrochelidon-ariel.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48200548"
+  },
+  "birds/petrochelidon-nigricans-2.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Petrochelidon_nigricans_1894.jpg"
   },
   "birds/petrochelidon-nigricans.webp": {
     "source": "commons-gould",
@@ -3491,6 +3515,10 @@
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48200820"
   },
+  "birds/rhipidura-rufifrons-2.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200824"
+  },
   "birds/rhipidura-rufifrons.webp": {
     "source": "commons-gould",
     "url": "https://commons.wikimedia.org/wiki/File:Rhipidura_rubrofrontata_-_The_Birds_of_New_Guinea.jpg"
@@ -3875,6 +3903,10 @@
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48401286"
   },
+  "birds/tachybaptus-novaehollandiae.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48509033"
+  },
   "birds/tachybaptus-ruficollis.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVLittle_Grebe.jpg"
@@ -3978,6 +4010,10 @@
   "birds/thryothorus-ludovicianus.webp": {
     "source": "audubon",
     "url": "https://media.audubon.org/boa_illustration/plate-78-great-carolina-wren.jpg"
+  },
+  "birds/todiramphus-sanctus-2.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200572"
   },
   "birds/todiramphus-sanctus.webp": {
     "source": "commons-broinowski",
