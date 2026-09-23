@@ -139,6 +139,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVRed-legged_Partridge.jpg"
   },
+  "birds/alisterus-scapularis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48400998"
+  },
   "birds/alle-alle.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00040.jpg"
@@ -175,6 +179,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVPintail_Duck.jpg"
   },
+  "birds/anas-castanea.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48508736"
+  },
   "birds/anas-crecca-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00279.jpg"
@@ -202,6 +210,18 @@
   "birds/anas-platyrhynchos.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVCommon_Wild_Duck.jpg"
+  },
+  "birds/anas-superciliosa-2.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Forster_Anas_superciliosa.jpg"
+  },
+  "birds/anas-superciliosa.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48508744"
+  },
+  "birds/anhinga-novaehollandiae.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_82)_(6797563156).jpg"
   },
   "birds/anous-stolidus.webp": {
     "source": "gould",
@@ -406,6 +426,10 @@
   "birds/arenaria-interpres.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVTurnstone.jpg"
+  },
+  "birds/artamus-leucorynchus.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Artamus_leucorynchus_1832.jpg"
   },
   "birds/asio-flammeus-2.webp": {
     "source": "vonwright",
@@ -627,6 +651,14 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVBulwers_Petrel.jpg"
   },
+  "birds/burhinus-grallarius-2.webp": {
+    "source": "commons-iconographia",
+    "url": "https://commons.wikimedia.org/wiki/File:Oedicnemus_grallarius_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ17200099.tif"
+  },
+  "birds/burhinus-grallarius.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48400637"
+  },
   "birds/burhinus-oedicnemus-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00338.jpg"
@@ -666,6 +698,18 @@
   "birds/cacatua-galerita.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48400934"
+  },
+  "birds/cacatua-sanguinea.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48400942"
+  },
+  "birds/cacomantis-flabelliformis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703159"
+  },
+  "birds/cacomantis-variolosus.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_by_Elizabeth_Gould_for_Birds_of_Australia,_digitally_enhanced_from_rawpixel%27s_own_facsimile_book324.jpg"
   },
   "birds/calandrella-brachydactyla.webp": {
     "source": "gould",
@@ -855,6 +899,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIRufous_Swallow.jpg"
   },
+  "birds/centropus-phasianinus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703183"
+  },
   "birds/cepphus-grylle-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00309.jpg"
@@ -895,6 +943,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIISilky_Warbler.jpg"
   },
+  "birds/chalcites-lucidus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703171"
+  },
   "birds/charadrius-hiaticula.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVRingDottrell.jpg"
@@ -910,6 +962,10 @@
   "birds/chelidon-rustica-x-hirundo-urbica.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00194.jpg"
+  },
+  "birds/chenonetta-jubata.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48508768"
   },
   "birds/chlidonias-hybrida.webp": {
     "source": "gould",
@@ -934,6 +990,10 @@
   "birds/chloris-chloris.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00226.jpg"
+  },
+  "birds/chroicocephalus-novaehollandiae.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48508789"
   },
   "birds/chroicocephalus-ridibundus-2.webp": {
     "source": "vonwright",
@@ -962,6 +1022,10 @@
   "birds/ciconia-nigra.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVBlack_Stork.jpg"
+  },
+  "birds/cincloramphus-timoriensis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48285872"
   },
   "birds/cinclus-cinclus-2.webp": {
     "source": "gould",
@@ -1018,6 +1082,10 @@
   "birds/circus-pygargus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIAsh-coloured_Harrier.jpg"
+  },
+  "birds/cisticola-exilis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48285900"
   },
   "birds/cisticola-juncidis.webp": {
     "source": "gould",
@@ -1127,6 +1195,14 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIRoller.jpg"
   },
+  "birds/coracina-novaehollandiae.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200708"
+  },
+  "birds/cormobates-leucophaea.webp": {
+    "source": "commons-iconographia",
+    "url": "https://commons.wikimedia.org/wiki/File:Climacteris_leucophaea_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ19200393.tif"
+  },
   "birds/corthylio-calendula-2.webp": {
     "source": "audubon",
     "url": "https://www.audubon.org/art/birds-of-america/ruby-crowned-wren"
@@ -1171,6 +1247,14 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIIRook.jpg"
   },
+  "birds/corvus-orru-2.webp": {
+    "source": "commons-broinowski",
+    "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Australia_(16730806798).jpg"
+  },
+  "birds/corvus-orru.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48702834"
+  },
   "birds/coturnix-coturnix-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00096.jpg"
@@ -1178,6 +1262,30 @@
   "birds/coturnix-coturnix.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVQuail.jpg"
+  },
+  "birds/cracticus-nigrogularis-2.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200688"
+  },
+  "birds/cracticus-nigrogularis-3.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_20)_(6797520502).jpg"
+  },
+  "birds/cracticus-nigrogularis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200684"
+  },
+  "birds/cracticus-torquatus-2.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200696"
+  },
+  "birds/cracticus-torquatus-3.webp": {
+    "source": "commons-broinowski",
+    "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Australia_(1890)_(20358028346).jpg"
+  },
+  "birds/cracticus-torquatus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200692"
   },
   "birds/crex-crex-2.webp": {
     "source": "vonwright",
@@ -1283,6 +1391,14 @@
     "source": "bree",
     "url": "https://commons.wikimedia.org/wiki/File:A_history_of_the_birds_of_Europe_(Plate_2)_(8157820166).jpg"
   },
+  "birds/cygnus-atratus-2.webp": {
+    "source": "commons-keulemans",
+    "url": "https://commons.wikimedia.org/wiki/File:Keulemans_Onze_vogels_1_66.jpg"
+  },
+  "birds/cygnus-atratus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48508756"
+  },
   "birds/cygnus-columbianus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVBewicks_Swan.jpg"
@@ -1359,6 +1475,14 @@
     "source": "levaillant",
     "url": "https://commons.wikimedia.org/wiki/File:Bessonornis_bicolor_-_1796-1808_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300353.tif"
   },
+  "birds/dicrurus-bracteatus-2.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_21)_(6943637203).jpg"
+  },
+  "birds/dicrurus-bracteatus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200816"
+  },
   "birds/dryobates-minor-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00243.jpg"
@@ -1390,6 +1514,10 @@
   "birds/egretta-garzetta.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVLittle_Egret.jpg"
+  },
+  "birds/egretta-novaehollandiae.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:History_of_the_birds_of_NZ_1st_ed_p228.jpg"
   },
   "birds/elanoides-forficatus.webp": {
     "source": "gould",
@@ -1479,9 +1607,17 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIIReed_Bunting.jpg"
   },
+  "birds/entomyzon-cyanotis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703087"
+  },
   "birds/eolophus-roseicapilla.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48400946"
+  },
+  "birds/eopsaltria-australis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48285759"
   },
   "birds/eremophila-alpestris.webp": {
     "source": "vonwright",
@@ -1506,6 +1642,10 @@
   "birds/eudromias-morinellus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVDottrell.jpg"
+  },
+  "birds/eudynamys-orientalis.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Eudynamys_orientalis_1869.jpg"
   },
   "birds/falco-biarmicus.webp": {
     "source": "gould",
@@ -1723,6 +1863,14 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVCommon_Gallinule.jpg"
   },
+  "birds/gallinula-tenebrosa.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48400878"
+  },
+  "birds/gallirallus-philippensis.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:History_of_the_birds_of_NZ_1st_ed_p176.jpg"
+  },
   "birds/garrulus-glandarius-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00014.jpg"
@@ -1770,6 +1918,26 @@
   "birds/geokichla-sibirica.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIISiberianThrush.jpg"
+  },
+  "birds/geopelia-humeralis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48401218"
+  },
+  "birds/geopelia-placida-2.webp": {
+    "source": "commons-broinowski",
+    "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Australia_(1890)_(20196181110).jpg"
+  },
+  "birds/geopelia-placida.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48401222"
+  },
+  "birds/gerygone-levigaster.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Gerygone_levigaster_by_John_Gould.jpg"
+  },
+  "birds/gerygone-olivacea.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200876"
   },
   "birds/glareola-pratincola.webp": {
     "source": "gould",
@@ -1823,6 +1991,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIGriffonVulture.jpg"
   },
+  "birds/haematopus-longirostris.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48400629"
+  },
   "birds/haematopus-ostralegus-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00328.jpg"
@@ -1855,6 +2027,18 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIWhite-headed_Eagle.jpg"
   },
+  "birds/haliastur-indus-2.webp": {
+    "source": "commons-iconographia",
+    "url": "https://commons.wikimedia.org/wiki/File:Haliastur_leucosternus_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ18100350.tif"
+  },
+  "birds/haliastur-indus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48185064"
+  },
+  "birds/haliastur-sphenurus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48185068"
+  },
   "birds/helopsaltes-certhiola.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIICreeping_Locustelle.jpg"
@@ -1878,6 +2062,14 @@
   "birds/himantopus-himantopus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVLong-legged_Plover.jpg"
+  },
+  "birds/himantopus-leucocephalus-2.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:NZ_Avocet_%26_Piedstilt.jpg"
+  },
+  "birds/himantopus-leucocephalus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48400682"
   },
   "birds/hippolais-icterina-2.webp": {
     "source": "desmurs",
@@ -1934,6 +2126,10 @@
   "birds/ichthyaetus-melanocephalus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVBlack-headed_Gull.jpg"
+  },
+  "birds/icthyophaga-leucogaster.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48185060"
   },
   "birds/iduna-opaca.webp": {
     "source": "bree",
@@ -2002,6 +2198,10 @@
   "birds/lagopus-muta.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVRock_Ptarmigan.jpg"
+  },
+  "birds/lalage-leucomela.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200736"
   },
   "birds/lanius-collurio-2.webp": {
     "source": "vonwright",
@@ -2115,6 +2315,14 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVWhite_Crane.jpg"
   },
+  "birds/leucosarcia-melanoleuca.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48401182"
+  },
+  "birds/lichmera-indistincta.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48702939"
+  },
   "birds/limosa-lapponica-2.webp": {
     "source": "vonwright-rawpixel",
     "url": "https://www.rawpixel.com/image/8864773/image-public-domain-bird-animal"
@@ -2154,6 +2362,10 @@
   "birds/locustella-naevia.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIBrake_Locustelle.jpg"
+  },
+  "birds/lonchura-castaneothorax.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Lonchura_castaneothorax_ramsayi_-_The_Birds_of_New_Guinea.jpg"
   },
   "birds/lophodytes-cucullatus.webp": {
     "source": "gould",
@@ -2259,13 +2471,29 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVBlack_Grouse.jpg"
   },
+  "birds/macropygia-phasianella-2.webp": {
+    "source": "commons-broinowski",
+    "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Australia_(1890)_(20357968776).jpg"
+  },
+  "birds/macropygia-phasianella.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48401230"
+  },
   "birds/malurus-cyaneus.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48285751"
   },
+  "birds/malurus-melanocephalus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48285836"
+  },
   "birds/manorina-melanocephala.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48703119"
+  },
+  "birds/manorina-melanophrys.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703135"
   },
   "birds/mareca-penelope-2.webp": {
     "source": "vonwright",
@@ -2371,6 +2599,14 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIICalandra_Lark.jpg"
   },
+  "birds/meliphaga-lewinii.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:John_Lewin_-_Yellow_ear_honeysucker.Lewin,_John._Birds_of_New_South_Wales_with_their_natural_history._Sydney-_G._..._-_Google_Art_Project.jpg"
+  },
+  "birds/melithreptus-albogularis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703111"
+  },
   "birds/melospiza-melodia.webp": {
     "source": "hines",
     "url": "https://commons.wikimedia.org/wiki/File:Melospiza_melodiaFJ03P03CA.JPG"
@@ -2414,6 +2650,10 @@
   "birds/merops-apiaster.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIBee_Eater.jpg"
+  },
+  "birds/merops-ornatus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200552"
   },
   "birds/milvus-migrans.webp": {
     "source": "gould",
@@ -2503,9 +2743,17 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIISpotted_Flycatcher.jpg"
   },
+  "birds/myiagra-rubecula.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200844"
+  },
   "birds/myiopsitta-monachus.webp": {
     "source": "greene",
     "url": "https://commons.wikimedia.org/wiki/File:Parrots_in_captivity_(Vol._3._PL._07)_Quaker_Grey_Breasted_or_Monte_Video_Parrakeet_(8527254257).jpg"
+  },
+  "birds/myzomela-sanguinolenta.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703067"
   },
   "birds/neophron-percnopterus.webp": {
     "source": "gould",
@@ -2603,6 +2851,18 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsIEuropeIScops_Eared_Owl.jpg"
   },
+  "birds/pachycephala-pectoralis-2.webp": {
+    "source": "commons-keulemans",
+    "url": "https://commons.wikimedia.org/wiki/File:PachycephalaTorquataKeulemans.jpg"
+  },
+  "birds/pachycephala-pectoralis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200756"
+  },
+  "birds/pachycephala-rufiventris.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:John_Lewin_-_Orange_breast_thrush.Lewin,_John._Birds_of_New_South_Wales_with_their_natural_history._Sydney-_G._Ho..._-_Google_Art_Project.jpg"
+  },
   "birds/pagophila-eburnea.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00315.jpg"
@@ -2618,6 +2878,18 @@
   "birds/panurus-biarmicus.webp": {
     "source": "dresser",
     "url": "https://commons.wikimedia.org/wiki/File:Panurus_biarmicus_(Dresser).jpg"
+  },
+  "birds/pardalotus-punctatus-2.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Pardalotus_punctatus_1838.jpg"
+  },
+  "birds/pardalotus-punctatus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200628"
+  },
+  "birds/pardalotus-striatus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200640"
   },
   "birds/parus-major-2.webp": {
     "source": "vonwright",
@@ -2659,6 +2931,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIIRose-coloured_Pastor.jpg"
   },
+  "birds/pelecanus-conspicillatus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48509005"
+  },
   "birds/pelecanus-crispus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Europe_(1837)_(14564052228).jpg"
@@ -2698,6 +2974,14 @@
   "birds/pernis-apivorus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIHoney_Buzzard.jpg"
+  },
+  "birds/petrochelidon-ariel.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200548"
+  },
+  "birds/petrochelidon-nigricans.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_by_Elizabeth_Gould_for_Birds_of_Australia,_digitally_enhanced_from_rawpixel%27s_own_facsimile_book50.jpg"
   },
   "birds/petroica-rosea.webp": {
     "source": "gould-australia",
@@ -2762,6 +3046,22 @@
   "birds/pheucticus-melanocephalus.webp": {
     "source": "audubon",
     "url": "https://www.audubon.org/art/birds-of-america/evening-grosbeak-and-spotted-grosbeak"
+  },
+  "birds/philemon-citreogularis-2.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:A_synopsis_of_the_birds_of_Australia,_and_the_adjacent_Islands_BHL45925106.jpg"
+  },
+  "birds/philemon-citreogularis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703055"
+  },
+  "birds/philemon-corniculatus-2.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Plate_from_Companion_to_Gould%27s_Handbook.jpg"
+  },
+  "birds/philemon-corniculatus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703047"
   },
   "birds/phoenicopterus-roseus.webp": {
     "source": "gould",
@@ -2903,6 +3203,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVSpoonbill.jpg"
   },
+  "birds/platycercus-adscitus.webp": {
+    "source": "commons-lear",
+    "url": "https://commons.wikimedia.org/wiki/File:Platycercus_adscitus_-Platycercus_palliceps._Paleheaded_Parrakeet_-by_Edward_Lear_1812-1888.jpg"
+  },
   "birds/platycercus-elegans.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48401022"
@@ -3031,6 +3335,10 @@
     "source": "fuertes",
     "url": "https://commons.wikimedia.org/wiki/Category:Birds_of_New_York_(1912)#/media/File:Annual_report_(1912)_(17806778914).jpg"
   },
+  "birds/porphyrio-melanotus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48400862"
+  },
   "birds/porphyrio-porphyrio.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVHyacinthine_Porphyrio.jpg"
@@ -3070,6 +3378,18 @@
   "birds/pterocles-orientalis.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVSand_Grouse.jpg"
+  },
+  "birds/ptilonorhynchus-violaceus-2.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Ptilonorhynchus_violaceus_female_1838.jpg"
+  },
+  "birds/ptilonorhynchus-violaceus-3.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Ptilonorhynchus_violaceus_-_Monograph_of_the_Paradiseidae.jpg"
+  },
+  "birds/ptilonorhynchus-violaceus.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Ptilonorhynchus_violaceus_male_1838.jpg"
   },
   "birds/ptyonoprogne-rupestris.webp": {
     "source": "gould",
@@ -3151,6 +3471,14 @@
     "source": "dresser",
     "url": "https://archive.org/details/historyofbirdsof13dres/page/n215/mode/1up"
   },
+  "birds/rhipidura-albiscapa.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200820"
+  },
+  "birds/rhipidura-rufifrons.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Rhipidura_rubrofrontata_-_The_Birds_of_New_Guinea.jpg"
+  },
   "birds/riparia-riparia-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00235.jpg"
@@ -3210,6 +3538,22 @@
   "birds/scolopax-rusticola.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVWoodcock.jpg"
+  },
+  "birds/scythrops-novaehollandiae-2.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Scythrops_novaehollandiae_1838.jpg"
+  },
+  "birds/scythrops-novaehollandiae.webp": {
+    "source": "commons-gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_44)_(6943651085).jpg"
+  },
+  "birds/sericornis-frontalis.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:SericornisMalurusGronvold.jpg"
+  },
+  "birds/sericornis-magnirostra.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48285940"
   },
   "birds/serinus-serinus.webp": {
     "source": "gould",
@@ -3315,6 +3659,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVGargany_Teal.jpg"
   },
+  "birds/sphecotheres-vieilloti.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48702822"
+  },
   "birds/spilopelia-senegalensis.webp": {
     "source": "levaillant",
     "url": "https://commons.wikimedia.org/wiki/File:Turtur_senegalensis_-_1796-1808_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ15600401.tif"
@@ -3411,6 +3759,14 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVLittle_Tern.jpg"
   },
+  "birds/stizoptera-bichenovii.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48286052"
+  },
+  "birds/strepera-graculina.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48200656"
+  },
   "birds/streptopelia-decaocto.webp": {
     "source": "keulemans",
     "url": "https://commons.wikimedia.org/wiki/File:Onze_vogels_in_huis_en_tuin_(12238985825).jpg"
@@ -3495,6 +3851,10 @@
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00208.jpg"
   },
+  "birds/synoicus-ypsilophorus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48401286"
+  },
   "birds/tachybaptus-ruficollis.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVLittle_Grebe.jpg"
@@ -3567,6 +3927,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVLittle_Bustard.jpg"
   },
+  "birds/thalasseus-bergii.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48508805"
+  },
   "birds/thalasseus-sandvicensis-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00180.jpg"
@@ -3595,9 +3959,21 @@
     "source": "audubon",
     "url": "https://media.audubon.org/boa_illustration/plate-78-great-carolina-wren.jpg"
   },
+  "birds/todiramphus-sanctus.webp": {
+    "source": "commons-broinowski",
+    "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Australia_(16880941829).jpg"
+  },
   "birds/toxostoma-rufum.webp": {
     "source": "audubon",
     "url": "https://commons.wikimedia.org/wiki/File:Robert_Havell_after_John_James_Audubon,_Ferruginous_Thrush,_1831,_NGA_32257.jpg"
+  },
+  "birds/trichoglossus-chlorolepidotus-2.webp": {
+    "source": "commons-lear",
+    "url": "https://commons.wikimedia.org/wiki/File:Trichoglossus_chlorolepidotus_-Trichoglossus_matoni_Maton%27s_Parrakeet_-by_Edward_Lear_1812-1888.jpg"
+  },
+  "birds/trichoglossus-chlorolepidotus.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48401130"
   },
   "birds/trichoglossus-moluccanus.webp": {
     "source": "gould-australia",
@@ -3767,6 +4143,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVBrunnichs_Guillemot.jpg"
   },
+  "birds/vanellus-miles.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48400621"
+  },
   "birds/vanellus-spinosus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVSpur-winged_Plover.jpg"
@@ -3818,6 +4198,14 @@
   "birds/zoothera-aurea.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIWhitesThrush.jpg"
+  },
+  "birds/zosterops-lateralis-2.webp": {
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Zosterops_lateralis_flaviceps_Smit.jpg"
+  },
+  "birds/zosterops-lateralis.webp": {
+    "source": "gould-australia",
+    "url": "https://www.biodiversitylibrary.org/page/48703139"
   },
   "birds/zosterops-virens.webp": {
     "source": "levaillant",

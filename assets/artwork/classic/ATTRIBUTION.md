@@ -98,3 +98,63 @@ Public domain. Manifest key: `gould-australia`.
 (1878-1880), plates lithographed by **John Gerrard Keulemans**, printed by **Hanhart**.
 Smithsonian Libraries scans, sponsored by the Biodiversity Heritage Library, via [Internet Archive](https://archive.org/details/historyofbirdsof02legg).
 Public domain. Manifest key: `legge-ceylon`.
+
+**Broinowski** - *The Birds of Australia* by **Gracius J. Broinowski** (1887-1891), chromolithographs. Scans via Wikimedia Commons (per-file links in manifest.json). Public domain. Manifest key: `commons-broinowski`.
+
+**Other Wikimedia Commons plates** (gould) - individual public-domain or openly licensed illustrations; artist, licence and source per file:
+
+- `cacomantis-variolosus.webp`: Rawpixel - CC BY-SA 4.0 - https://commons.wikimedia.org/wiki/File:Bird_illustration_by_Elizabeth_Gould_for_Birds_of_Australia,_digitally_enhanced_from_rawpixel%27s_own_facsimile_book324.jpg
+- `cracticus-nigrogularis-3.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_20)_(6797520502).jpg
+- `philemon-corniculatus-2.webp`: Silvester Diggles - Public domain - https://commons.wikimedia.org/wiki/File:Plate_from_Companion_to_Gould%27s_Handbook.jpg
+- `anhinga-novaehollandiae.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_82)_(6797563156).jpg
+- `dicrurus-bracteatus-2.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_21)_(6943637203).jpg
+- `rhipidura-rufifrons.webp`: William Matthew Hart - Public domain - https://commons.wikimedia.org/wiki/File:Rhipidura_rubrofrontata_-_The_Birds_of_New_Guinea.jpg
+- `scythrops-novaehollandiae.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_44)_(6943651085).jpg
+- `gerygone-levigaster.webp`: John Gould - Public domain - https://commons.wikimedia.org/wiki/File:Gerygone_levigaster_by_John_Gould.jpg
+- `petrochelidon-nigricans.webp`: Rawpixel - CC BY-SA 4.0 - https://commons.wikimedia.org/wiki/File:Bird_illustration_by_Elizabeth_Gould_for_Birds_of_Australia,_digitally_enhanced_from_rawpixel%27s_own_facsimile_book50.jpg
+- `lonchura-castaneothorax.webp`: John Gould    /    William Matthew Hart - Public domain - https://commons.wikimedia.org/wiki/File:Lonchura_castaneothorax_ramsayi_-_The_Birds_of_New_Guinea.jpg
+
+Manifest key: `commons-gould`.
+
+**Other Wikimedia Commons plates** (iconographia) - individual public-domain or openly licensed illustrations; artist, licence and source per file:
+
+- `cormobates-leucophaea.webp`: Paul Louis Oudart    /    Charles Étienne Pierre Motte - Public domain - https://commons.wikimedia.org/wiki/File:Climacteris_leucophaea_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ19200393.tif
+- `haliastur-indus-2.webp`: Paul Louis Oudart    /    Godefroy Engelmann the Elder - Public domain - https://commons.wikimedia.org/wiki/File:Haliastur_leucosternus_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ18100350.tif
+- `burhinus-grallarius-2.webp`: Paul Louis Oudart    /    Charles Étienne Pierre Motte - Public domain - https://commons.wikimedia.org/wiki/File:Oedicnemus_grallarius_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ17200099.tif
+
+Manifest key: `commons-iconographia`.
+
+**Other Wikimedia Commons plates** (keulemans) - individual public-domain or openly licensed illustrations; artist, licence and source per file:
+
+- `pachycephala-pectoralis-2.webp`: John Gerrard Keulemans - Public domain - https://commons.wikimedia.org/wiki/File:PachycephalaTorquataKeulemans.jpg
+- `cygnus-atratus-2.webp`: John Gerrard Keulemans - Public domain - https://commons.wikimedia.org/wiki/File:Keulemans_Onze_vogels_1_66.jpg
+
+Manifest key: `commons-keulemans`.
+
+**Other Wikimedia Commons plates** (lear) - individual public-domain or openly licensed illustrations; artist, licence and source per file:
+
+- `trichoglossus-chlorolepidotus-2.webp`: Edward Lear - Public domain - https://commons.wikimedia.org/wiki/File:Trichoglossus_chlorolepidotus_-Trichoglossus_matoni_Maton%27s_Parrakeet_-by_Edward_Lear_1812-1888.jpg
+- `platycercus-adscitus.webp`: Edward Lear - Public domain - https://commons.wikimedia.org/wiki/File:Platycercus_adscitus_-Platycercus_palliceps._Paleheaded_Parrakeet_-by_Edward_Lear_1812-1888.jpg
+
+Manifest key: `commons-lear`.
+
+**Other Wikimedia Commons plates** (other) - individual public-domain or openly licensed illustrations; artist, licence and source per file:
+
+- `gallirallus-philippensis.webp`: John Gerrard Keulemans - Public domain - https://commons.wikimedia.org/wiki/File:History_of_the_birds_of_NZ_1st_ed_p176.jpg
+- `meliphaga-lewinii.webp`: John Lewin (1770-1819) - Public domain - https://commons.wikimedia.org/wiki/File:John_Lewin_-_Yellow_ear_honeysucker.Lewin,_John._Birds_of_New_South_Wales_with_their_natural_history._Sydney-_G._..._-_Google_Art_Project.jpg
+- `anas-superciliosa-2.webp`: Georg Forster (1754–1794) - Public domain - https://commons.wikimedia.org/wiki/File:Forster_Anas_superciliosa.jpg
+- `zosterops-lateralis-2.webp`: Joseph Smit - Public domain - https://commons.wikimedia.org/wiki/File:Zosterops_lateralis_flaviceps_Smit.jpg
+- `pachycephala-rufiventris.webp`: John Lewin (1770-1819) - Public domain - https://commons.wikimedia.org/wiki/File:John_Lewin_-_Orange_breast_thrush.Lewin,_John._Birds_of_New_South_Wales_with_their_natural_history._Sydney-_G._Ho..._-_Google_Art_Project.jpg
+- `sericornis-frontalis.webp`: Henrik Grønvold - Public domain - https://commons.wikimedia.org/wiki/File:SericornisMalurusGronvold.jpg
+- `egretta-novaehollandiae.webp`: John Gerrard Keulemans - Public domain - https://commons.wikimedia.org/wiki/File:History_of_the_birds_of_NZ_1st_ed_p228.jpg
+- `himantopus-leucocephalus-2.webp`: By  J. G. Keulemans . - Public domain - https://commons.wikimedia.org/wiki/File:NZ_Avocet_%26_Piedstilt.jpg
+- `philemon-citreogularis-2.webp`: Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:A_synopsis_of_the_birds_of_Australia,_and_the_adjacent_Islands_BHL45925106.jpg
+- `scythrops-novaehollandiae-2.webp`: Nicolas Huet    /    Jean Gabriel Prêtre - Public domain - https://commons.wikimedia.org/wiki/File:Scythrops_novaehollandiae_1838.jpg
+- `eudynamys-orientalis.webp`: John Gerrard Keulemans - Public domain - https://commons.wikimedia.org/wiki/File:Eudynamys_orientalis_1869.jpg
+- `artamus-leucorynchus.webp`: Heinrich von Kittlitz - Public domain - https://commons.wikimedia.org/wiki/File:Artamus_leucorynchus_1832.jpg
+- `pardalotus-punctatus-2.webp`: Nicolas Huet    /    Jean Gabriel Prêtre - Public domain - https://commons.wikimedia.org/wiki/File:Pardalotus_punctatus_1838.jpg
+- `ptilonorhynchus-violaceus.webp`: Nicolas Huet    /    Jean Gabriel Prêtre - Public domain - https://commons.wikimedia.org/wiki/File:Ptilonorhynchus_violaceus_male_1838.jpg
+- `ptilonorhynchus-violaceus-2.webp`: Nicolas Huet    /    Jean Gabriel Prêtre - Public domain - https://commons.wikimedia.org/wiki/File:Ptilonorhynchus_violaceus_female_1838.jpg
+- `ptilonorhynchus-violaceus-3.webp`: William Matthew Hart - Public domain - https://commons.wikimedia.org/wiki/File:Ptilonorhynchus_violaceus_-_Monograph_of_the_Paradiseidae.jpg
+
+Manifest key: `commons-other`.
