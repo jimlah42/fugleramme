@@ -109,7 +109,6 @@ Public domain. Manifest key: `legge-ceylon`.
 - `anhinga-novaehollandiae.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_82)_(6797563156).jpg
 - `dicrurus-bracteatus-2.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_21)_(6943637203).jpg
 - `rhipidura-rufifrons.webp`: William Matthew Hart - Public domain - https://commons.wikimedia.org/wiki/File:Rhipidura_rubrofrontata_-_The_Birds_of_New_Guinea.jpg
-- `scythrops-novaehollandiae.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_44)_(6943651085).jpg
 - `gerygone-levigaster.webp`: John Gould - Public domain - https://commons.wikimedia.org/wiki/File:Gerygone_levigaster_by_John_Gould.jpg
 - `petrochelidon-nigricans.webp`: Rawpixel - CC BY-SA 4.0 - https://commons.wikimedia.org/wiki/File:Bird_illustration_by_Elizabeth_Gould_for_Birds_of_Australia,_digitally_enhanced_from_rawpixel%27s_own_facsimile_book50.jpg
 - `lonchura-castaneothorax.webp`: John Gould    /    William Matthew Hart - Public domain - https://commons.wikimedia.org/wiki/File:Lonchura_castaneothorax_ramsayi_-_The_Birds_of_New_Guinea.jpg
@@ -149,7 +148,7 @@ Manifest key: `commons-lear`.
 - `egretta-novaehollandiae.webp`: John Gerrard Keulemans - Public domain - https://commons.wikimedia.org/wiki/File:History_of_the_birds_of_NZ_1st_ed_p228.jpg
 - `himantopus-leucocephalus-2.webp`: By  J. G. Keulemans . - Public domain - https://commons.wikimedia.org/wiki/File:NZ_Avocet_%26_Piedstilt.jpg
 - `philemon-citreogularis-2.webp`: Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:A_synopsis_of_the_birds_of_Australia,_and_the_adjacent_Islands_BHL45925106.jpg
-- `scythrops-novaehollandiae-2.webp`: Nicolas Huet    /    Jean Gabriel Prêtre - Public domain - https://commons.wikimedia.org/wiki/File:Scythrops_novaehollandiae_1838.jpg
+- `scythrops-novaehollandiae.webp`: Nicolas Huet    /    Jean Gabriel Prêtre - Public domain - https://commons.wikimedia.org/wiki/File:Scythrops_novaehollandiae_1838.jpg
 - `eudynamys-orientalis.webp`: John Gerrard Keulemans - Public domain - https://commons.wikimedia.org/wiki/File:Eudynamys_orientalis_1869.jpg
 - `artamus-leucorynchus.webp`: Heinrich von Kittlitz - Public domain - https://commons.wikimedia.org/wiki/File:Artamus_leucorynchus_1832.jpg
 - `pardalotus-punctatus-2.webp`: Nicolas Huet    /    Jean Gabriel Prêtre - Public domain - https://commons.wikimedia.org/wiki/File:Pardalotus_punctatus_1838.jpg
@@ -158,3 +157,5 @@ Manifest key: `commons-lear`.
 - `ptilonorhynchus-violaceus-3.webp`: William Matthew Hart - Public domain - https://commons.wikimedia.org/wiki/File:Ptilonorhynchus_violaceus_-_Monograph_of_the_Paradiseidae.jpg
 
 Manifest key: `commons-other`.
+
+**Baker (Indian Pigeons and Doves)** - *Indian Pigeons and Doves* by **E. C. Stuart Baker** (1913), colour plates by **Henrik Grønvold**. American Museum of Natural History scan via [Internet Archive](https://archive.org/details/indianpigeonsdov00bake). Public domain. Manifest key: `baker-indian-pigeons`.

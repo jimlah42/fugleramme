@@ -2795,6 +2795,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVRed-crested_Duck.jpg"
   },
+  "birds/ninox-boobook.webp": {
+    "source": "gould-australia",
+    "url": "https://archive.org/details/birdsAustraliav1Goul/page/n263"
+  },
   "birds/nucifraga-caryocatactes-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00013.jpg"
@@ -3580,12 +3584,12 @@
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVWoodcock.jpg"
   },
   "birds/scythrops-novaehollandiae-2.webp": {
-    "source": "commons-other",
-    "url": "https://commons.wikimedia.org/wiki/File:Scythrops_novaehollandiae_1838.jpg"
+    "source": "gould-australia",
+    "url": "https://archive.org/details/birdsAustraliav4Goul/page/n371"
   },
   "birds/scythrops-novaehollandiae.webp": {
-    "source": "commons-gould",
-    "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_44)_(6943651085).jpg"
+    "source": "commons-other",
+    "url": "https://commons.wikimedia.org/wiki/File:Scythrops_novaehollandiae_1838.jpg"
   },
   "birds/sericornis-frontalis-2.webp": {
     "source": "gould-australia",
@@ -3706,6 +3710,10 @@
   "birds/sphecotheres-vieilloti.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48702822"
+  },
+  "birds/spilopelia-chinensis.webp": {
+    "source": "baker-indian-pigeons",
+    "url": "https://archive.org/details/indianpigeonsdov00bake/page/n276"
   },
   "birds/spilopelia-senegalensis.webp": {
     "source": "levaillant",
