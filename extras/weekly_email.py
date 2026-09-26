@@ -36,7 +36,7 @@ STYLE = "classic"
 LABELS = REPO / "assets" / "birdnet_labels_v2.4.txt"
 SETTINGS = Path.home() / ".config" / "fugleramme" / "weekly-email.json"
 PAPER = (242, 237, 226)  # the frame's own paper tone
-COLLAGE_BIRDS = 12
+COLLAGE_BIRDS = 24  # a busy week keeps its newcomers first, then the most heard
 REGULARS = 8  # the most-heard leaderboard
 BAR = "#5a8a2c"  # leaf green; passes the dataviz lightness/chroma/contrast checks on the paper
 
