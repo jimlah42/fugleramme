@@ -4,7 +4,8 @@ Local additions for this frame, not part of upstream Fugleramme.
 
 ## Weekly bird email
 
-`weekly_email.py` sends a "birds around home" email every Sunday evening: the week's
+`weekly_email.py` sends a "birds around home" email every Sunday morning, covering the week
+before (Sunday to Saturday): the week's
 collage, the new birds, the busiest time of day and the most-heard birds. It reads
 BirdNET-Go's API and draws pictures with the frame's own renderer and artwork.
 
@@ -29,8 +30,8 @@ Verification on). Delete it there to stop the email from sending.
 
 ```bash
 uv run python extras/weekly_email.py --preview /tmp/week.html   # look at this week's email
-uv run python extras/weekly_email.py --send --today             # send it now
-bash extras/install-weekly-email.sh                             # schedule it for Sundays at 6pm
+uv run python extras/weekly_email.py --send                     # send last week's now
+bash extras/install-weekly-email.sh                             # schedule it for Sundays at 7:30am
 systemctl list-timers fugleramme-weekly-email.timer             # when it runs next
 journalctl -u fugleramme-weekly-email                           # what it did
 ```

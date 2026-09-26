@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Schedule the weekly bird email on this Pi: Sundays at 6pm, Monday to Sunday.
+# Schedule the weekly bird email on this Pi: Sunday mornings at 7:30, covering the
+# previous Sunday to Saturday.
 # Mirrors run.sh's install_service: a system unit that runs as this user from
 # this checkout. Persistent=true sends a missed week once the Pi is back on.
 #
@@ -26,15 +27,15 @@ Wants=network-online.target
 Type=oneshot
 User=$USER
 WorkingDirectory=$REPO_ROOT
-ExecStart=$UV_BIN run python extras/weekly_email.py --send --today
+ExecStart=$UV_BIN run python extras/weekly_email.py --send
 EOF
 
 sudo tee /etc/systemd/system/fugleramme-weekly-email.timer >/dev/null <<EOF
 [Unit]
-Description=Send the weekly bird email on Sunday evenings
+Description=Send the weekly bird email on Sunday mornings
 
 [Timer]
-OnCalendar=Sun *-*-* 18:00:00
+OnCalendar=Sun *-*-* 07:30:00
 Persistent=true
 
 [Install]
