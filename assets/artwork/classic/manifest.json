@@ -3235,6 +3235,10 @@
     "source": "audubon",
     "url": "https://media.audubon.org/boa_illustration/plate-44-summer-red-bird.jpg?"
   },
+  "birds/pitta-versicolor.webp": {
+    "source": "gould-australia",
+    "url": "https://archive.org/details/birdsAustraliav4Goul/page/n11"
+  },
   "birds/platalea-leucorodia.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVSpoonbill.jpg"
