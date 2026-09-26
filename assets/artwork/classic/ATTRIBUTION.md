@@ -104,10 +104,6 @@ Public domain. Manifest key: `legge-ceylon`.
 **Other Wikimedia Commons plates** (gould) - individual public-domain or openly licensed illustrations; artist, licence and source per file:
 
 - `cacomantis-variolosus.webp`: Rawpixel - CC BY-SA 4.0 - https://commons.wikimedia.org/wiki/File:Bird_illustration_by_Elizabeth_Gould_for_Birds_of_Australia,_digitally_enhanced_from_rawpixel%27s_own_facsimile_book324.jpg
-- `cracticus-nigrogularis-3.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_20)_(6797520502).jpg
-- `philemon-corniculatus-2.webp`: Silvester Diggles - Public domain - https://commons.wikimedia.org/wiki/File:Plate_from_Companion_to_Gould%27s_Handbook.jpg
-- `anhinga-novaehollandiae.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_82)_(6797563156).jpg
-- `dicrurus-bracteatus-2.webp`: Diggles, Silvester.; Gould, John - Public domain - https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_21)_(6943637203).jpg
 - `rhipidura-rufifrons.webp`: William Matthew Hart - Public domain - https://commons.wikimedia.org/wiki/File:Rhipidura_rubrofrontata_-_The_Birds_of_New_Guinea.jpg
 - `gerygone-levigaster.webp`: John Gould - Public domain - https://commons.wikimedia.org/wiki/File:Gerygone_levigaster_by_John_Gould.jpg
 - `petrochelidon-nigricans.webp`: Rawpixel - CC BY-SA 4.0 - https://commons.wikimedia.org/wiki/File:Bird_illustration_by_Elizabeth_Gould_for_Birds_of_Australia,_digitally_enhanced_from_rawpixel%27s_own_facsimile_book50.jpg

@@ -224,8 +224,8 @@
     "url": "https://www.biodiversitylibrary.org/page/48508744"
   },
   "birds/anhinga-novaehollandiae.webp": {
-    "source": "commons-gould",
-    "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_82)_(6797563156).jpg"
+    "source": "gould-australia",
+    "url": "https://archive.org/details/birdsAustraliav7Goul/page/n307"
   },
   "birds/anous-stolidus.webp": {
     "source": "gould",
@@ -1275,10 +1275,6 @@
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48200688"
   },
-  "birds/cracticus-nigrogularis-3.webp": {
-    "source": "commons-gould",
-    "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_20)_(6797520502).jpg"
-  },
   "birds/cracticus-nigrogularis.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48200684"
@@ -1482,10 +1478,6 @@
   "birds/dicaeum-hirundinaceum.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48200624"
-  },
-  "birds/dicrurus-bracteatus-2.webp": {
-    "source": "commons-gould",
-    "url": "https://commons.wikimedia.org/wiki/File:Companion_to_Gould%27s_Handbook;_or,_Synopsis_of_the_birds_of_Australia_(Plate_21)_(6943637203).jpg"
   },
   "birds/dicrurus-bracteatus.webp": {
     "source": "gould-australia",
@@ -3090,10 +3082,6 @@
   "birds/philemon-citreogularis.webp": {
     "source": "gould-australia",
     "url": "https://www.biodiversitylibrary.org/page/48703055"
-  },
-  "birds/philemon-corniculatus-2.webp": {
-    "source": "commons-gould",
-    "url": "https://commons.wikimedia.org/wiki/File:Plate_from_Companion_to_Gould%27s_Handbook.jpg"
   },
   "birds/philemon-corniculatus.webp": {
     "source": "gould-australia",
